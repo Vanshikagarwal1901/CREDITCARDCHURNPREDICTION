@@ -38,7 +38,7 @@ The ANN model consists of the following layers:
 4. Output Layer: Single node with sigmoid activation to predict churn probability.
 
 ## Requirements
-
+I run this project on Google Colab.
 To run this project, you will need the following packages:
 - Python 3.x
 - TensorFlow 2.x
